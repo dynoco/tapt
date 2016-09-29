@@ -1,0 +1,19 @@
+{
+  "name": "tapt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dynoco/tapt.git"
+  },
+  "author": "Dyno & Co.",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dynoco/tapt/issues"
+  },
+  "homepage": "https://github.com/dynoco/tapt#readme"
+}
